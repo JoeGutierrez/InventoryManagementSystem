@@ -13,3 +13,4 @@ C:\Users\Joe\source\repos\IMS\IMS.UseCases\obj\Debug\net8.0\IMS.UseCases.dll
 C:\Users\Joe\source\repos\IMS\IMS.UseCases\obj\Debug\net8.0\refint\IMS.UseCases.dll
 C:\Users\Joe\source\repos\IMS\IMS.UseCases\obj\Debug\net8.0\IMS.UseCases.pdb
 C:\Users\Joe\source\repos\IMS\IMS.UseCases\obj\Debug\net8.0\ref\IMS.UseCases.dll
+C:\Users\Joe\source\repos\IMS\IMS.UseCases\obj\Debug\net8.0\IMS.UseCases.sourcelink.json

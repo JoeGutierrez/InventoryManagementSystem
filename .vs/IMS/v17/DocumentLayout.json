@@ -1,12 +1,121 @@
 {
   "Version": 1,
   "WorkspaceRootPath": "C:\\Users\\Joe\\source\\repos\\IMS\\",
-  "Documents": [],
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{D5BD83D6-B4C1-46DA-87BD-C2ED7266F92C}|IMS.WebApp\\IMS.WebApp.csproj|c:\\users\\joe\\source\\repos\\ims\\ims.webapp\\components\\controls\\productlistcomponent.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{D5BD83D6-B4C1-46DA-87BD-C2ED7266F92C}|IMS.WebApp\\IMS.WebApp.csproj|solutionrelative:ims.webapp\\components\\controls\\productlistcomponent.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D5BD83D6-B4C1-46DA-87BD-C2ED7266F92C}|IMS.WebApp\\IMS.WebApp.csproj|c:\\users\\joe\\source\\repos\\ims\\ims.webapp\\components\\controls\\productlistitemcomponent.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{D5BD83D6-B4C1-46DA-87BD-C2ED7266F92C}|IMS.WebApp\\IMS.WebApp.csproj|solutionrelative:ims.webapp\\components\\controls\\productlistitemcomponent.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D5BD83D6-B4C1-46DA-87BD-C2ED7266F92C}|IMS.WebApp\\IMS.WebApp.csproj|c:\\users\\joe\\source\\repos\\ims\\ims.webapp\\components\\pages\\products\\addproduct.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{D5BD83D6-B4C1-46DA-87BD-C2ED7266F92C}|IMS.WebApp\\IMS.WebApp.csproj|solutionrelative:ims.webapp\\components\\pages\\products\\addproduct.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F189A89B-5C38-4F75-A9C7-B2186FF1F3A6}|IMS.CoreBusiness\\IMS.CoreBusiness.csproj|c:\\users\\joe\\source\\repos\\ims\\ims.corebusiness\\productinventory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F189A89B-5C38-4F75-A9C7-B2186FF1F3A6}|IMS.CoreBusiness\\IMS.CoreBusiness.csproj|solutionrelative:ims.corebusiness\\productinventory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D5BD83D6-B4C1-46DA-87BD-C2ED7266F92C}|IMS.WebApp\\IMS.WebApp.csproj|c:\\users\\joe\\source\\repos\\ims\\ims.webapp\\components\\controls\\productinventoriescomponent.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{D5BD83D6-B4C1-46DA-87BD-C2ED7266F92C}|IMS.WebApp\\IMS.WebApp.csproj|solutionrelative:ims.webapp\\components\\controls\\productinventoriescomponent.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F189A89B-5C38-4F75-A9C7-B2186FF1F3A6}|IMS.CoreBusiness\\IMS.CoreBusiness.csproj|c:\\users\\joe\\source\\repos\\ims\\ims.corebusiness\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F189A89B-5C38-4F75-A9C7-B2186FF1F3A6}|IMS.CoreBusiness\\IMS.CoreBusiness.csproj|solutionrelative:ims.corebusiness\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
   "DocumentGroupContainers": [
     {
       "Orientation": 0,
       "VerticalTabListWidth": 256,
-      "DocumentGroups": []
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "ProductListItemComponent.razor",
+              "DocumentMoniker": "C:\\Users\\Joe\\source\\repos\\IMS\\IMS.WebApp\\Components\\Controls\\ProductListItemComponent.razor",
+              "RelativeDocumentMoniker": "IMS.WebApp\\Components\\Controls\\ProductListItemComponent.razor",
+              "ToolTip": "C:\\Users\\Joe\\source\\repos\\IMS\\IMS.WebApp\\Components\\Controls\\ProductListItemComponent.razor",
+              "RelativeToolTip": "IMS.WebApp\\Components\\Controls\\ProductListItemComponent.razor",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAACEAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-07-19T21:47:56.127Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "ProductListComponent.razor",
+              "DocumentMoniker": "C:\\Users\\Joe\\source\\repos\\IMS\\IMS.WebApp\\Components\\Controls\\ProductListComponent.razor",
+              "RelativeDocumentMoniker": "IMS.WebApp\\Components\\Controls\\ProductListComponent.razor",
+              "ToolTip": "C:\\Users\\Joe\\source\\repos\\IMS\\IMS.WebApp\\Components\\Controls\\ProductListComponent.razor",
+              "RelativeToolTip": "IMS.WebApp\\Components\\Controls\\ProductListComponent.razor",
+              "ViewState": "AQIAABIAAAAAAAAAAAAAACIAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-07-19T21:46:21.588Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "ProductInventoriesComponent.razor",
+              "DocumentMoniker": "C:\\Users\\Joe\\source\\repos\\IMS\\IMS.WebApp\\Components\\Controls\\ProductInventoriesComponent.razor",
+              "RelativeDocumentMoniker": "IMS.WebApp\\Components\\Controls\\ProductInventoriesComponent.razor",
+              "ToolTip": "C:\\Users\\Joe\\source\\repos\\IMS\\IMS.WebApp\\Components\\Controls\\ProductInventoriesComponent.razor",
+              "RelativeToolTip": "IMS.WebApp\\Components\\Controls\\ProductInventoriesComponent.razor",
+              "ViewState": "AQIAABsAAAAAAAAAAAAAADQAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-07-18T22:56:22.923Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Product.cs",
+              "DocumentMoniker": "C:\\Users\\Joe\\source\\repos\\IMS\\IMS.CoreBusiness\\Product.cs",
+              "RelativeDocumentMoniker": "IMS.CoreBusiness\\Product.cs",
+              "ToolTip": "C:\\Users\\Joe\\source\\repos\\IMS\\IMS.CoreBusiness\\Product.cs",
+              "RelativeToolTip": "IMS.CoreBusiness\\Product.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-18T22:27:18.399Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "ProductInventory.cs",
+              "DocumentMoniker": "C:\\Users\\Joe\\source\\repos\\IMS\\IMS.CoreBusiness\\ProductInventory.cs",
+              "RelativeDocumentMoniker": "IMS.CoreBusiness\\ProductInventory.cs",
+              "ToolTip": "C:\\Users\\Joe\\source\\repos\\IMS\\IMS.CoreBusiness\\ProductInventory.cs",
+              "RelativeToolTip": "IMS.CoreBusiness\\ProductInventory.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABYAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-18T22:22:07.253Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "AddProduct.razor",
+              "DocumentMoniker": "C:\\Users\\Joe\\source\\repos\\IMS\\IMS.WebApp\\Components\\Pages\\Products\\AddProduct.razor",
+              "RelativeDocumentMoniker": "IMS.WebApp\\Components\\Pages\\Products\\AddProduct.razor",
+              "ToolTip": "C:\\Users\\Joe\\source\\repos\\IMS\\IMS.WebApp\\Components\\Pages\\Products\\AddProduct.razor",
+              "RelativeToolTip": "IMS.WebApp\\Components\\Pages\\Products\\AddProduct.razor",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAC8AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-07-12T21:38:16.661Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
     }
   ]
 }

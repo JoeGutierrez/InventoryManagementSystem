@@ -35,3 +35,5 @@ C:\Users\Joe\source\repos\IMS\IMS.WebApp\bin\Debug\net8.0\IMS.Plugins.InMemory.p
 C:\Users\Joe\source\repos\IMS\IMS.WebApp\bin\Debug\net8.0\IMS.UseCases.pdb
 C:\Users\Joe\source\repos\IMS\IMS.WebApp\obj\Debug\net8.0\IMS.WebApp.csproj.AssemblyReference.cache
 C:\Users\Joe\source\repos\IMS\IMS.WebApp\obj\Debug\net8.0\IMS.WebApp.csproj.Up2Date
+C:\Users\Joe\source\repos\IMS\IMS.WebApp\obj\Debug\net8.0\IMS.WebApp.sourcelink.json
+C:\Users\Joe\source\repos\IMS\IMS.WebApp\obj\Debug\net8.0\scopedcss\Components\Controls\SearchProductInventoriesComponent.razor.rz.scp.css

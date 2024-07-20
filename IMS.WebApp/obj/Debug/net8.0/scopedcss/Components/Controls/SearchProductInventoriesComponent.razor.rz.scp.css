@@ -1,0 +1,14 @@
+.search-result[b-cehmtkaaqa] {
+	overflow-y: auto;
+	max-height: 300px;
+	border: 1px solid silver;
+	padding-top: 50px;
+}
+
+div ul[b-cehmtkaaqa] {
+	list-style-type: none;
+}
+
+div ul li[b-cehmtkaaqa] {
+	cursor: pointer;
+}

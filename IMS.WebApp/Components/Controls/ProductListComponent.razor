@@ -29,6 +29,6 @@
 
 	protected override async Task OnParametersSetAsync()
 	{
-		products = (await ViewProductsByNameUseCase.ExecuteAsync(SearchProductFilter ?? "")).ToList();
+		products = ( await ViewProductsByNameUseCase.ExecuteAsync( SearchProductFilter ?? "" ) ).ToList();
 	}
 }
